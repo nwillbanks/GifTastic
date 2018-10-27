@@ -1,0 +1,42 @@
+button {
+		margin: 6px;
+}
+
+.jumbotron {
+	font-weight: bold;
+	background-color: purple;
+	color: gold;
+	text-align: center;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+	background-color: purple;
+	border: black;
+	color: gold;
+}
+
+input{
+	background-color: tan;
+}
+
+#band-form {
+	text-align: center;
+	margin: 12px;
+}
+
+.item {
+	padding: 12px;
+	display: inline-block;
+}
+
+p{
+	background-color: purple;
+	color: white;	
+	padding: 0px;
+	text-align: center;
+}
